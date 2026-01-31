@@ -1,1 +1,1 @@
-[![](https://github.com/EDGW/EDGW/raw/refs/heads/main/github-metrics.svg)](https://github.com/EDGW)
+[![](https://raw.githubusercontent.com/EDGW/EDGW/master/github-metrics.svg)](https://github.com/EDGW)
