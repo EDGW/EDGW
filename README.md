@@ -1,2 +1,3 @@
-![RYO YAMADA-SMALL](https://github.com/user-attachments/assets/d076e19a-ab4e-413a-a224-46d568b1b059)
+![RYO YAMADA-SMALL](https://github.com/user-attachments/assets/4677f15c-1c13-41ed-bf47-db840c2c0884)
+
 [![](https://raw.githubusercontent.com/EDGW/EDGW/master/github-metrics.svg)](https://github.com/EDGW)
