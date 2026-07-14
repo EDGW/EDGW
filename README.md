@@ -15,7 +15,7 @@
   <br/>
   <br/>
 
-  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust" />
+  <!-- <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust" />
   <img src="https://img.shields.io/badge/C++%2fC-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet" />
   <img src="https://img.shields.io/badge/XAML-purple?style=for-the-badge&logo=xml" />
@@ -32,5 +32,6 @@
   <img src="https://img.shields.io/badge/Avalonia-purple" />
   <img src="https://img.shields.io/badge/Blazor-purple" />
   <img src="https://img.shields.io/badge/Vue-0A9C00?logo=net" />
+  -->
   <br/>
 </div>
