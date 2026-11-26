@@ -1,6 +1,14 @@
 <div align="center">
+Hi 👋, I'm kako_.<br/>
+Member of <a href="https://github.com/hitszosa">@hitszosa</a>.
+</div>
 
-  
+My projects:
+- [@anemone](https://github.com/anemone-os/anemone) - An open-source OS kernel written in Rust for RISC-V and LoongArch64
+- [@mcpm](https://github.com/EDGW/mcpm) - A package manager for Minecraft Server & Client
+
+<div align="center">
+
   <br/>
   
   <!-- 编程语言 -->
